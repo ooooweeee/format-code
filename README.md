@@ -22,7 +22,7 @@ npm install -D @typescript-eslint/parser @typescript-eslint/eslint-plugin typesc
 
 ## **vue**
 
-- eslint-plugin-vue 让 `eslint` 能校验 `.vue 文件
+- eslint-plugin-vue 让 `eslint` 能校验 `.vue` 文件
 - eslint-config-prettier 解决 `vue` 等其他校验规则与 `prettier` 冲突
 
 ```sh
